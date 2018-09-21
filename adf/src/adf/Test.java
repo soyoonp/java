@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("javaTest");
 		System.out.println("commit finished");
+		System.out.println("commit check");
 
 	}
 
